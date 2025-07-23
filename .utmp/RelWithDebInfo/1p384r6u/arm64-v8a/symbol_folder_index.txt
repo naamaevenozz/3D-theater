@@ -1,0 +1,1 @@
+C:\Users\naama\OneDrive\study\Bezalel\Unity\game-lab-ex3\class2025-gaming-lab-ex3-team1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1p384r6u\obj\arm64-v8a
